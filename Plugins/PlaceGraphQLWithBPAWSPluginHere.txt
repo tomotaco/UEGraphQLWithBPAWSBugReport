@@ -1,0 +1,2 @@
+Please copy GraphQL with Blueprints (AWS) plugin here.
+https://www.unrealengine.com/marketplace/ja/product/graphql-plugin
